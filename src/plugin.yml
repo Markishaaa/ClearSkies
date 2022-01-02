@@ -1,0 +1,5 @@
+name: ClearSkies
+version: 1.0
+author: markisha
+main: markisha.clearSkies.ClearSkies
+api-version: 1.14
